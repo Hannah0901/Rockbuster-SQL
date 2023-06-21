@@ -8,5 +8,5 @@ Rockbuster Stealth used to have physical movie rental stores worldwide but now f
 # Data
 A relational database made up of 17 tables containing data on film rentals, customers, actors, payments, and more.
 
-# View the project viz's here
+# View the project Tableau here
 https://public.tableau.com/app/profile/hannah6404/viz/RockbusterStealthDataAnalysis_16807513513930/Story2
